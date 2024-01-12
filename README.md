@@ -4,7 +4,7 @@
 
 * ☁️  I'am working as a contracting Cloud/Platform Engineer with a main focus on Microsoft Azure and Kubernetes.
 * 👑 [Collection of badges](https://www.credly.com/users/ben-kooijman/badges)
-* 🌱 Learning more about software development practices whenever I get the chance 
-* 🔥 Interests: Automation, Gaming, cooking and reading books
+* 🌱 Learning about backend programming and cloud native technologies
+* 🔥 Interests: Automation, gaming, baking and reading books
 * ⌨️  Keyboard: Currenly maining my Keychron ANSI Q1 with lubed Gateron yellows and doubleshot white keycaps. 
 * ✉️  You can reach me at `fmt.Println("ben" + "@" + "kooijman.se")`
