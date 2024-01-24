@@ -6,5 +6,5 @@
 * 👑 [Collection of badges](https://www.credly.com/users/ben-kooijman/badges)
 * 🌱 Learning about backend programming and cloud native technologies
 * 🔥 Interests: Automation, gaming, baking and reading books
-* ⌨️  Keyboard: Currenly maining my Keychron ANSI Q1 with lubed Gateron yellows and doubleshot white keycaps. 
+* ⌨️  Keyboard: Currenly maining my Keychron US ANSI Q1 with XCJZ LUCY silent linear switches and doubleshot white keycaps. 
 * ✉️  You can reach me at `fmt.Println("ben" + "@" + "kooijman.se")`
